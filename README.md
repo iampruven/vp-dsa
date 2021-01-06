@@ -3,3 +3,4 @@
 ## DSA problem list:
 - Reversing a string
 - Longest Word in a string
+- Merge sorted array
